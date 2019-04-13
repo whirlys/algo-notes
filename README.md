@@ -78,8 +78,7 @@
 ## 树
 
 - [二叉树](https://github.com/whirlys/algo-notes/blob/master/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-- 平衡二叉树
-- 红黑树
+- [红黑树](https://github.com/whirlys/algo-notes/blob/master/%E6%A0%91/%E7%BA%A2%E9%BB%91%E6%A0%91.md)
 - 借助递归树来求解递归算法的时间复杂度
 - [94. 二叉树的中序遍历](https://github.com/whirlys/algo-notes/blob/master/%E6%A0%91/94_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 - [101. 对称二叉树](https://github.com/whirlys/algo-notes/blob/master/%E6%A0%91/101_%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
